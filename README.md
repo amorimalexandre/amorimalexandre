@@ -33,7 +33,9 @@ Microsoft Certified: Azure AI, Azure Data, Power BI Analyst
 🔗 Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/alexandre-amorim-231169253/)
-[Phone Number](+351 934802316) 
+
+Phone Number: +351 934802316
+
 [Email](amorimsantosalexandre@gmail.com)
 
 "Great teams build great products. Great leadership builds great teams."
