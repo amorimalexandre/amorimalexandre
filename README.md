@@ -1,44 +1,41 @@
-Hi there, I'm Alexandre Amorim 👋
+# Hi there, I'm Alexandre Amorim 👋  
+**Head of IT | Engineering Manager | Digital Transformation Strategist**
 
-Head of IT | Engineering Manager | Digital Transformation Leader
+With over a decade of experience leading engineering orgs across four continents, I thrive at the intersection of **technology, strategy, and people**. My focus? Scaling backend platforms, cloud-native systems, and data infrastructure that unlock real business impact.
 
-With over a decade leading global engineering teams and delivering enterprise-scale systems, I thrive at the intersection of technology, strategy, and people. I specialize in backend architecture, data platforms, and secure cloud-native services.
+---
 
-🚀 What I Do
+### 🚀 What I Do
 
-Lead cross-functional engineering teams across 4 continents
+- Lead high-performing, multicultural engineering teams across **Africa, Asia, Europe, and the US**
+- Architect resilient, scalable systems in **Fintech**, **eCommerce**, and **Healthcare**
+- Drive adoption of **AI/ML**, **DevOps**, and **Cloud** across enterprise ecosystems
+- Translate complex business challenges into secure, pragmatic tech solutions
 
-Architect distributed systems in Fintech, eCommerce, and Healthcare
+---
 
-Drive AI/ML, DevOps, and Cloud adoption at scale
+### 🎓 Education & Certifications
 
-Translate complex business needs into pragmatic, secure tech solutions
+- **MSc** in Electrical and Computer Engineering  
+- **PgDip** in IT Management, Digital Business & Strategy  
+- Certified in:  
+  `PAL I ™` • `CSM®` • `PSK I` • `CSPO®` • `Lean Six Sigma Black Belt`  
+  `ITIL4®` • `PRINCE2®` • `Management 3.0`  
+  `Azure AI Engineer` • `Azure Data Scientist` • `Power BI Analyst`
 
-🎓 Credentials & Certifications
+---
 
-MSc in Electrical and Computer Engineering
+### 🌐 Global & Multilingual
 
-PgDip in IT Management, Digital Business, Strategic Management
+- 🌍 **Geographic Experience**: Africa | Asia | Europe | USA  
+- 🗣️ **Languages**: English, French, Portuguese, Spanish (int.), German (learning)
 
-Certified: PAL I ™, CSM®, PSK I, Lean Six Sigma Black, CSPO®, ITIL4®, PRINCE2®
+---
 
-Microsoft Certified: Azure AI, Azure Data, Power BI Analyst
+### 🔗 Let's Connect
 
-🌐 Languages & Locations
+- 📫 [Email me](mailto:amorimsantosalexandre@gmail.com)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/alexandre-amorim-231169253/)  
+- 📞 +351 934 802 316  
 
-🌍 Experience: Africa | Asia | Europe | USA
-
-🔊 Languages: English, French, Portuguese, Spanish (int.), German (learning)
-
-🔗 Connect With Me
-
-[LinkedIn](https://www.linkedin.com/in/alexandre-amorim-231169253/)
-
-Phone Number: +351 934802316
-
-[Email](amorimsantosalexandre@gmail.com)
-
-"Great teams build great products. Great leadership builds great teams."
-
-Let's build something impactful.
-
+> “Great teams build great products. Great leadership builds great teams.”
